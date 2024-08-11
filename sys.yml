@@ -1,0 +1,18 @@
+- id: 1474
+  en: 'Tyranno Sword'
+- id: 1475
+  en:
+    'Tyranno Ranger´s personal weapon.
+
+    This small blade halves damage in
+
+    critical situations.'
+- id: 15950
+  en: 'Power Sword'
+- id: 15951
+  en:
+    'Powered Tyranno Sword.
+
+    This long blade charges MP faster by {:color #F0F00080}75%{:reset}
+
+    once all MP has been consumed.'
